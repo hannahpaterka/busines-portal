@@ -1,6 +1,6 @@
  # Business Portal
 
-This business portal was developed for a contract client, I to maintain the Heroku production environment.
+This business portal was developed for a contract client, I currently maintain the Heroku production environment.
 
 
 **Key Features:**
