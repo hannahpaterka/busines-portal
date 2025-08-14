@@ -1,16 +1,19 @@
-# business-portal-readme
-
-Business portal I built for a contract job I took. Features include :
-
  # Business Portal
 
- This business portal was developed for a contract client and includes the following features :
+ This business portal was developed for a contract client and includes the following :
  - Integrated database
  - User management
  - Invoice creation system
- - Work order workflows
+ - Work order management/flows
  - Maps integration, tap-to-call phone numbers, and emails
- - Notes system for communication between vendors, dealers, contractors, and office staff
+ - Notes system for communication between vendors, dealers, contractors, and office staff.
+
+ ## Tech Stack
+
+- **Backend:** Spring Boot/Java
+- **Frontend:** Thymeleaf (server-side rendering), JavaScript, jQuery
+- **Database:** PostgreSQL
+- **Hosting:** Heroku
 
  ## Screenshots
 
