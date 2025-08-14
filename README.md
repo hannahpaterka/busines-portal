@@ -29,11 +29,11 @@ This business portal was developed for a contract client, I to maintain the Hero
 
 <table>
     <tr>
-        <td align="center"><b>Users Management</b><br><img src="images/users.png" alt="Users Management" width="320"/></td>
-        <td align="center"><b>Field List</b><br><img src="images/jobs.png" alt="Jobs List" width="320"/></td>
+        <td align="center"><b>Users Management</b><br><img src="images/users.png" alt="Users Management" width="400"/></td>
+        <td align="center"><b>Field List</b><br><img src="images/jobs.png" alt="Jobs List" width="400"/></td>
     </tr>
     <tr>
-        <td align="center"><b>Work Order</b><br><img src="images/workorder.png" alt="Work Order" width="320"/></td>
-        <td align="center"><b>Invoice Creator</b><br><img src="images/invoice.png" alt="Invoice Screen" width="320"/></td>
+        <td align="center"><b>Work Order</b><br><img src="images/workorder.png" alt="Work Order" width="400"/></td>
+        <td align="center"><b>Invoice Creator</b><br><img src="images/invoice.png" alt="Invoice Screen" width="400"/></td>
     </tr>
 </table>
