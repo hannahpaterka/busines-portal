@@ -1,12 +1,18 @@
  # Business Portal
 
- This business portal was developed for a contract client and includes the following :
- - Integrated database
- - User management
- - Invoice creation system
- - Work order management/flows
- - Maps integration, tap-to-call phone numbers, and emails
- - Notes system for communication between vendors, dealers, contractors, and office staff.
+This business portal was developed for a contract client, I to maintain the Heroku production environment.
+
+
+**Key Features:**
+- Secure, role-based logins for different user types
+- User management
+- Create and track invoices
+- Make, assign, and update work orders
+- Integrated PostgreSQL database for all data
+- Built-in maps with tap-to-call phone numbers and quick email links
+- Notes system for communication between vendors, dealers, contractors, and office staff
+- Search and filter records to find information fast
+- Fully responsive —works on desktop and mobile
 
  ## Tech Stack
 
