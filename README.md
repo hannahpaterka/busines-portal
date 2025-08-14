@@ -17,14 +17,13 @@ Business portal I built for a contract job I took. Features include :
  **Database**
  ![Database Diagram](images/database.png)
 
- **Invoice Screen**
- ![Invoice Screen](images/invoice.png)
-
- **Jobs List**
- ![Jobs List](images/jobs-list.png)
-
- **Users Management**
+  **Users Management**
  ![Users Management](images/users.png)
-
- **Work Order**
- ![Work Order](images/workorder.png)
+ 
+<table>
+    <tr>
+        <td align="center"><b>Field List</b><br><img src="images/jobs.png" alt="Jobs List" width="400"/></td>
+        <td align="center"><b>Work Order</b><br><img src="images/workorder.png" alt="Work Order" width="250"/></td>
+        <td align="center"><b>Invoice Creator</b><br><img src="images/invoice.png" alt="Invoice Screen" width="250"/></td>
+    </tr>
+</table>
