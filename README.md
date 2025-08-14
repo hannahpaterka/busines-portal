@@ -27,6 +27,7 @@ This business portal was developed for a contract client, I currently maintain t
  ![Database Diagram](images/database.png)
 
 
+<div align="center">
 <table>
     <tr>
         <td align="center"><b>Users Management</b><br><img src="images/users.png" alt="Users Management" width="400"/></td>
@@ -37,3 +38,4 @@ This business portal was developed for a contract client, I currently maintain t
         <td align="center"><b>Invoice Creator</b><br><img src="images/invoice.png" alt="Invoice Screen" width="400"/></td>
     </tr>
 </table>
+</div>
